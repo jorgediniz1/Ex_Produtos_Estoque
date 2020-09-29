@@ -1,0 +1,13 @@
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\bin\Debug\netcoreapp3.1\Ex_Produtos_Estoque.exe
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\bin\Debug\netcoreapp3.1\Ex_Produtos_Estoque.deps.json
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\bin\Debug\netcoreapp3.1\Ex_Produtos_Estoque.runtimeconfig.json
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\bin\Debug\netcoreapp3.1\Ex_Produtos_Estoque.runtimeconfig.dev.json
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\bin\Debug\netcoreapp3.1\Ex_Produtos_Estoque.dll
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\bin\Debug\netcoreapp3.1\Ex_Produtos_Estoque.pdb
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\obj\Debug\netcoreapp3.1\Ex_Produtos_Estoque.csprojAssemblyReference.cache
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\obj\Debug\netcoreapp3.1\Ex_Produtos_Estoque.AssemblyInfoInputs.cache
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\obj\Debug\netcoreapp3.1\Ex_Produtos_Estoque.AssemblyInfo.cs
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\obj\Debug\netcoreapp3.1\Ex_Produtos_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\obj\Debug\netcoreapp3.1\Ex_Produtos_Estoque.dll
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\obj\Debug\netcoreapp3.1\Ex_Produtos_Estoque.pdb
+C:\Users\diniz\source\repos\Ex_Produtos_Estoque\Ex_Produtos_Estoque\obj\Debug\netcoreapp3.1\Ex_Produtos_Estoque.genruntimeconfig.cache

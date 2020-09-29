@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJhkMRMocX+08sVdAQrniwiBGARYYHVQSdTqcVd0Eg5S1E7quRffAMbntqCPo54QURD7QuczvSh59iTCECY4KQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\diniz\\source\\repos\\Ex_Produtos_Estoque\\Ex_Produtos_Estoque\\Ex_Produtos_Estoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diniz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\diniz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
